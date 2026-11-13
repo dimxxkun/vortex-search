@@ -1,0 +1,9 @@
+[package]
+name = "vortex-search"
+version = "0.1.0"
+edition = "2021"
+authors = ["dimxxkun <work.abdulfatai@gmail.com>"]
+description = "A lightweight, high-performance in-memory inverted index search engine with BM25 ranking."
+license = "MIT"
+
+[dependencies]
