@@ -1,6 +1,6 @@
 # Vortex-Search
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Noncommercial](https://img.shields.io/badge/License-Noncommercial-blue.svg)](LICENSE)
 
 **Vortex-Search** is a fast, embeddable in-memory full-text search engine implemented in pure Rust. It features tokenization with stop-word removal, positional inverted index construction, and the Okapi BM25 probabilistic relevance ranking algorithm.
 
@@ -77,4 +77,10 @@ Query: "LSM-tree MemTable compaction SSTables"
 ```
 
 ## License
-MIT © [dimxxkun](https://github.com/dimxxkun)
+[Noncommercial license](LICENSE) © [dimxxkun](https://github.com/dimxxkun)
+
+## Commercial permission
+
+Original material in this repository is available under the [Noncommercial Use and Commercial Permission License](LICENSE). **Noncommercial use is free. Commercial use requires prior written permission and a separate written agreement specifying the scope and agreed fee.** Contact [work.abdulfatai@gmail.com](mailto:work.abdulfatai@gmail.com) with the repository name and intended use.
+
+Portfolio review and recruitment evaluation are permitted without a fee. Third-party components retain their own licenses. Permissions already granted for earlier versions remain valid; the new terms do not revoke those grants. These are custom source-available terms, not an OSI-approved open-source license.
